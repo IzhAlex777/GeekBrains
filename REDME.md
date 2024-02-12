@@ -48,9 +48,9 @@ git push
 ```sh
 csv.reader(csvfile, 'r', dialect='excel', **fmtparams)
 ```
-чтение данных из одного файла в другой.
+Чтение данных из одного файла в другой.
 
 ```sh
 csv.reader(csvfile, 'w', dialect='excel', **fmtparams)
 ```
-запись данных в другой файл.
+Запись данных в другой файл.
